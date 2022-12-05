@@ -1,0 +1,17 @@
+
+
+/*static int cnt{ 1 };
+					for (int j = 0; j < emps.size(); j++)
+					{
+
+						if (emps[j].get_number() == cnt)
+						{
+							cnt = emps[j].set_number(cnt);
+							cnt++;
+						}
+						else
+						{
+							cnt = emps[j].set_number(cnt);
+							cnt++;
+						}
+					}*/
